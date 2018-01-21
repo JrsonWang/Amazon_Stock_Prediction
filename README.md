@@ -1,0 +1,2 @@
+# Amazon_Stock_Prediction
+本次项目使用Linear Regression模型对亚马逊股票的Adj. Close指标进行模拟预测，并对预测结果进行可视化展示。
